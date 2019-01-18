@@ -1,34 +1,18 @@
-# figure1
+# Super Feed
 
-## Project setup
-```
-npm install
-```
+This is the Engineering Assignment for my application.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Instructions:
+- [x] Please write your solution using a modern Javascript framework
+- [x] We prefer you don't use a packaged CSS solution such as Google Material UI
+- [x] Comments item from the API should be treated as regular objects from the feed
+- [x] Please include testing in your submission
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Commands:
+- `npm run install` to run a local server
+- `npm run serve` to run a local development server
+- `npm run build` to build the application
+- `npm run test:unit` to run unit tests on Vue components
+- `npm run test` to run tests on the Figure1 API
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Christophe Mamessier
