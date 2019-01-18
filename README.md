@@ -14,5 +14,3 @@ Commands:
 - `npm run build` to build the application
 - `npm run test:unit` to run unit tests on Vue components
 - `npm run test` to run tests on the Figure1 API
-
-Christophe Mamessier
