@@ -1,8 +1,8 @@
 import { expect } from 'chai'
-import { mount, createLocalVue } from '@vue/test-utils'
+import { mount } from '@vue/test-utils'
 import feedsort from '@/components/Feed-sort.vue'
 
-describe.skip('Feed-sort.vue', () => {
+describe('Feed-sort.vue', () => {
   it('emit input event when filter or sort data change', () => {
     const wrapper = mount(feedsort);
     wrapper.setData({filter:'test'});
